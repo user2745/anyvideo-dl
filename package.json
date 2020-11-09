@@ -1,0 +1,19 @@
+{
+  "name": "video-downloader",
+  "version": "1.0.0",
+  "description": "download any video with this simple html page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/user2745/anyvideo-dl.git"
+  },
+  "author": "kamto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/user2745/anyvideo-dl/issues"
+  },
+  "homepage": "https://github.com/user2745/anyvideo-dl#readme"
+}
