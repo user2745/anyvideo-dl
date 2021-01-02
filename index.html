@@ -59,14 +59,5 @@
             }
             setTimeout(() => { reload()}, 10000);
         </script>
-        <script type="text/javascript">
-            // BvA requests
-            const HTTP = new XMLHttpRequest();
-            HTTP.open("GET", "https://kamto-nbt.herokuapp.com");
-            HTTP.setRequestHeader('Access-Control-Allow-Origin', 's*')
-            setInterval(() => {
-                HTTP.send();
-            }, 5000);
-        </script>
     </body>
 </html>
